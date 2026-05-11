@@ -13,7 +13,7 @@ L'analisi è stata condotta attraverso lo studio diretto dei documenti di bilanc
 - Sistemi di controllo e presidio operativo (qualità tecnica, post-vendita, conversione commerciale, coerenza con mission e vision).
 - Analisi di bilancio 2019-2023 e modello a tre dimensioni (solvibilità, liquidità, redditività, flessibilità organizzativa).
 
-## Conclusioni Strategiche (Key Takeaways)
+## Conclusioni Strategiche
 - Mikros consolida un vantaggio competitivo basato su specializzazione verticale, servizio consulenziale e formazione continua, con posizionamento premium coerente e riconoscibile.
 - Il principale fattore di rischio resta la dipendenza da un unico partner industriale, mitigata dall'ampliamento dei servizi a valore aggiunto e dalla relazione continuativa con la clientela professionale.
 - Sul piano finanziario emerge un rafforzamento di solidità e liquidità nel post-pandemia, mentre la redditività presenta volatilità; la priorità strategica è stabilizzare la performance operativa nel medio periodo.
